@@ -22,6 +22,29 @@ To help client identify:
 - **Older men (56+)** incur highest per-claim cost.
 - **Ramadhan** affects claim behavior significantly, while Christmas and Eid do not.
 
-## 📋 Recommendations
-Please refer to the [report](./report/Medinsurance_Claim_Report.pdf) for specific strategic recommendations for Medinsurance management.
+### 💡 Strategic Recommendations
+
+1. **Preventive Programs**  
+   Focus on respiratory, GI, dental, and vision health.
+
+2. **Flexible Filing**  
+   Increase accessibility during Tuesday/Saturday peaks.
+
+3. **Negotiate High-Cost Diagnoses**  
+   Focus on bundled packages for Caesarean and Dengue.
+
+4. **Adapt During Ramadan**  
+   Offer flexible policies and health education.
+
+5. **Targeted Plans for Demographics**  
+   Tailor coverage for young families and older males.
+
+6. **Improve Data Quality**  
+   Address missing member info and billing outliers.
+
+
+## 📋 View PDF to Full Report 
+1. Please refer to the https://drive.google.com/file/d/1cVXV29Djp12Bt5I74jOp01Yb2a3lYV_x/view?usp=drive_link  for full report
+2. Download the raw file from github https://github.com/inishtania/insurance_claim_analysis/blob/main/Medinsurance%20report.pdf
+
 
